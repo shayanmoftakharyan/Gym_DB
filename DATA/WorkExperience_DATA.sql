@@ -1,0 +1,34 @@
+USE GYMDB;
+SET DATEFORMAT mdy;
+GO
+
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Facility Manager', '11/17/2014', 3, '8/10/2021', 'Abata');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Facility Manager', '1/5/2007', 17, '12/23/2022', 'Yadel');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Equipment Manager', '9/1/2011', 17, '9/26/2021', 'Lajo');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Agent', '5/5/2014', 20, '3/6/2017', 'Muxo');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Psychologist', '10/31/2003', 16, '8/21/2020', 'Twimm');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Marketing Manager', '10/2/2013', 14, '11/30/2023', 'Quinu');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Psychologist', '9/12/2013', 15, '7/3/2021', 'Zoonoodle');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Marketing Manager', '10/18/2014', 20, '4/4/2020', 'Youspan');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Nutritionist', '8/6/2002', 12, '9/13/2016', 'Agimba');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Nutritionist', '7/15/2012', 2, '11/9/2018', 'Wikibox');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Equipment Manager', '11/20/2008', 5, '12/19/2022', 'Mydo');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Agent', '11/23/2010', 14, '8/16/2022', 'Kwilith');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Nutritionist', '10/27/2000', 11, '4/12/2025', 'Topiclounge');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Psychologist', '4/25/2007', 12, '3/27/2026', 'Oloo');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Marketing Manager', '9/20/2008', 15, '9/12/2017', 'Myworks');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Agent', '3/8/2010', 15, '7/8/2020', 'Skilith');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Event Coordinator', '8/7/2007', 6, '11/3/2020', 'Gabtune');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Facility Manager', '6/15/2015', 13, '5/6/2026', 'Babbleblab');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Journalist', '5/5/2006', 4, '11/16/2020', 'Eamia');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Nutritionist', '10/14/2004', 15, '12/26/2024', 'Edgewire');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Athletic Trainer', '12/27/2011', 17, '1/6/2018', 'Flipopia');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Journalist', '6/3/2003', 20, '8/15/2022', 'Yambee');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Marketing Manager', '11/24/2006', 14, '8/12/2023', 'Yombu');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Agent', '3/11/2015', 10, '9/20/2016', 'Skivee');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Nutritionist', '2/4/2010', 3, '1/25/2026', 'Eadel');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Marketing Manager', '8/23/2003', 10, '12/14/2022', 'Thoughtstorm');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Nutritionist', '9/28/2007', 8, '10/1/2021', 'Topiczoom');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Event Coordinator', '5/13/2008', 2, '9/25/2016', 'Jaxworks');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Psychologist', '7/19/2008', 13, '1/4/2020', 'Zoozzy');
+insert into WorkExperience (WorkingRole, StartDate, StaffID, EndDate, OrganizationName) values ('Sports Equipment Manager', '1/13/2009', 20, '3/27/2025', 'Skimia');

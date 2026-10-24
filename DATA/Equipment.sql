@@ -1,0 +1,34 @@
+USE GYMDB;
+SET DATEFORMAT mdy;
+GO
+
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Punching Bag', 'Strength', 'ImpactZone', 'Fair', '5/6/2021', '2/20/2024', 45000000, 1);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Foam Roller', 'Cardio', 'SwiftGear', 'Poor', '4/11/2023', '9/16/2023', 40000000, 4);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Battle Ropes', 'Sports', 'TitaniumFit', 'Good', '4/10/2022', '4/7/2024', 51000000, 4);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Punching Bag', 'Sports', 'StealthGrip', 'New', '6/9/2023', '9/1/2025', 52000000, 3);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Rowing Machine', 'Functional Training', 'VortexPro', 'Poor', '6/11/2023', '3/23/2026', 47000000, 5);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Agility Ladder', 'Functional Training', 'ImpactZone', 'Fair', '6/9/2023', '8/20/2023', 55000000, 2);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Gymnastics Rings', 'Sports', 'BlitzForce', 'Good', '5/2/2023', '9/26/2024', 34000000, 4);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Gymnastics Rings', 'Cardio', 'ImpactZone', 'Fair', '2/22/2021', '4/19/2026', 35000000, 2);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('TRX Suspension Trainer', 'Strength', 'StealthGrip', 'Poor', '1/4/2021', '10/17/2025', 57000000, 1);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Dumbbells', 'Strength', 'Flexibility', 'Poor', '9/9/2021', '10/31/2024', 38000000, 3);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Jump Rope', 'Sports', 'ImpactZone', 'New', '8/11/2022', '2/15/2026', 44000000, 1);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Climbing Rope', 'Recovery', 'BlitzForce', 'Fair', '5/7/2023', '6/2/2026', 30500000, 5);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('TRX Suspension Trainer', 'Strength', 'RapidRebound', 'Poor', '11/8/2022', '4/27/2024', 51000000, 5);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Battle Ropes', 'Sports', 'SwiftGear', 'New', '2/24/2021', '2/21/2026', 54000000, 1);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Treadmill', 'Sports', 'PowerStrike', 'Poor', '3/2/2021', '10/17/2024', 50000000, 5);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Elliptical Machine', 'Strength', 'StealthGrip', 'Poor', '12/16/2021', '7/20/2025', 30500000, 3);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Foam Roller', 'Strength', 'RapidRebound', 'Poor', '11/1/2021', '11/26/2023', 43000000, 1);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Squat Rack', 'Strength', 'RapidRebound', 'Poor', '4/4/2022', '9/2/2024', 41000000, 2);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Treadmill', 'Recovery', 'SwiftGear', 'New', '10/5/2022', '9/2/2024', 44000000, 1);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Pilates Ring', 'Strength', 'PowerStrike', 'Good', '12/9/2020', '1/14/2025', 43000000, 4);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Speed Sled', 'Strength', 'VortexPro', 'New', '9/29/2020', '10/18/2023', 55000000, 4);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Elliptical Machine', 'Flexibility', 'PowerStrike', 'Good', '5/21/2022', '7/19/2023', 52000000, 5);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Boxing Gloves', 'Sports', 'TitaniumFit', 'Good', '10/25/2022', '2/26/2024', 34000000, 4);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Boxing Gloves', 'Recovery', 'TitaniumFit', 'Good', '4/20/2022', '9/18/2023', 34000000, 1);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Resistance Bands', 'Functional Training', 'RapidRebound', 'New', '10/26/2020', '9/18/2023', 35000000, 4);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Treadmill', 'Functional Training', 'SwiftGear', 'Fair', '7/5/2020', '6/29/2024', 59000000, 2);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Pilates Ring', 'Strength', 'BlitzForce', 'Good', '1/2/2023', '5/3/2026', 52000000, 2);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Pilates Ring', 'Flexibility', 'VortexPro', 'Poor', '3/21/2022', '9/9/2024', 47000000, 5);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Punching Bag', 'Functional Training', 'RapidRebound', 'Poor', '6/6/2022', '9/30/2025', 40000000, 2);
+insert into Equipment (NameofEquipment, Category, Brand, Condition, InstallationDate, LastMaintenance, Price, SubspaceID) values ('Speed Sled', 'Strength', 'EnduranceX', 'Fair', '6/25/2020', '10/23/2023', 56000000, 2);

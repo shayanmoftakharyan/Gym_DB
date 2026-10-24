@@ -1,0 +1,10 @@
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Athletic Performance', 2, 2017);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Athletic Performance', 10, 2012);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Injury Prevention', 10, 2017);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Athletic Performance', 3, 2014);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Sports Psychology', 3, 2012);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Injury Prevention', 9, 2012);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Sports Psychology', 6, 2020);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Sports Psychology', 5, 2013);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Rehabilitation', 8, 2021);
+insert into Profession (FieldOfProfession, StaffID, StartYear) values ('Rehabilitation', 10, 2011);
