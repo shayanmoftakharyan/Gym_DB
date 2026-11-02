@@ -19,7 +19,7 @@ This academic team project focuses on conceptual database modeling, relational s
 ## Team Members
 
 - [Nima Ansaripour](https://www.linkedin.com/in/nima-ansaripour/)
-- [Fatemeh Beheshtipour](https://www.linkedin.com/in/fatemeh-beheshtipour-ba2306246/)
+- **Fatemeh Beheshtipour** — [LinkedIn](https://www.linkedin.com/in/fatemeh-beheshtipour-ba2306246/) | [GitHub](https://github.com/ghazal-bhshtpr)
 - [Shayan Moftakharyan](https://www.linkedin.com/in/shayanmoftakharyan/)
 
 ## Project Overview
